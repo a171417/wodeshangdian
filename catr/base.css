@@ -83,7 +83,7 @@ input{
     /* 设置底部边框样式 */
     border-bottom: 1px solid #ccc;
     /* 生成绝对定位的元素 */
-    position: absolute;
+     /* position: absolute; */
 }
 .hm_topBar>[class^="icon_"]{
     position:absolute;
